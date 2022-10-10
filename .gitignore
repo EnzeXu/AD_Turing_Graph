@@ -1,0 +1,6 @@
+test.py
+venv/*
+__pycache__/*
+lib/*
+.idea/*
+.DS_Store
